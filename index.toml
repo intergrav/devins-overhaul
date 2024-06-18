@@ -105,11 +105,6 @@ hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
 metafile = true
 
 [[files]]
-file = "mods/con_eureka.pw.toml"
-hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
-metafile = true
-
-[[files]]
 file = "mods/con_fabric-seasons-extras.pw.toml"
 hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
 metafile = true
