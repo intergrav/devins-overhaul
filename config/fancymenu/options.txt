@@ -1,0 +1,3 @@
+##[customization]
+
+B:modpack_mode = 'true';

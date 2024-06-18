@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/customization/devinmenu.txt"
+hash = "b9a64872875866ba5185e4a4b550af4f0545fb4f457acc008f0843bf835daad4"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "dc413e125ac58a0bdc3fbb4305a3e5ca18e37b7e09a8d825b94ef4642889171f"
+
+[[files]]
+file = "config/fancymenu/slideshows/devinslideshow/images/screenshot1.png"
+hash = "9396d13cbfdcd2510d3ea62761ad5a97298cffe16570c9019d36f0bce2ffde15"
+
+[[files]]
+file = "config/fancymenu/slideshows/devinslideshow/images/screenshot2.png"
+hash = "bac2877b63361e95c35035433e496e4510778ea9b83ecba13b2b5af93539f8a8"
+
+[[files]]
+file = "config/fancymenu/slideshows/devinslideshow/images/screenshot3.png"
+hash = "8b1f609457de7187bb7a798786f07e41f94946afe2f1881f5a5f364fc5f3012b"
+
+[[files]]
+file = "config/fancymenu/slideshows/devinslideshow/images/screenshot4.png"
+hash = "71bfc55aca7765648012426358034a8e1042ee77282405477d3dd940032636e1"
+
+[[files]]
+file = "config/fancymenu/slideshows/devinslideshow/properties.txt"
+hash = "74b3d0a86f6440c4d260d5507c22d449b5ba9766f58db00399fc89018ebd9d3f"
+
+[[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
 hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
@@ -27,6 +55,10 @@ hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "26950b1934bf00f24551063c78851413d4ee50bafa6a3796344258cee04fdba1"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
