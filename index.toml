@@ -45,91 +45,6 @@ file = "config/yosbr/options.txt"
 hash = "af1f626931d4ceceb9dff7847637e41e473fe4b837b83a8246c3e9042dd25973"
 
 [[files]]
-file = "mods/adr_badoptimizations.pw.toml"
-hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
-metafile = true
-
-[[files]]
-file = "mods/adr_cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
-metafile = true
-
-[[files]]
-file = "mods/adr_cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
-metafile = true
-
-[[files]]
-file = "mods/adr_dynamic-fps.pw.toml"
-hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
-metafile = true
-
-[[files]]
-file = "mods/adr_ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
-
-[[files]]
-file = "mods/adr_entityculling.pw.toml"
-hash = "dd6dcae2b3900f466f93387e57a213a18678dd3b366cb4037e2870dfcd892eb8"
-metafile = true
-
-[[files]]
-file = "mods/adr_fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
-metafile = true
-
-[[files]]
-file = "mods/adr_ferrite-core.pw.toml"
-hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
-metafile = true
-
-[[files]]
-file = "mods/adr_immediatelyfast.pw.toml"
-hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
-metafile = true
-
-[[files]]
-file = "mods/adr_indium.pw.toml"
-hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
-metafile = true
-
-[[files]]
-file = "mods/adr_lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/adr_modernfix.pw.toml"
-hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
-metafile = true
-
-[[files]]
-file = "mods/adr_noisium.pw.toml"
-hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
-metafile = true
-
-[[files]]
-file = "mods/adr_sodium.pw.toml"
-hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
-metafile = true
-
-[[files]]
-file = "mods/adr_threadtweak.pw.toml"
-hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
-metafile = true
-
-[[files]]
-file = "mods/adr_yacl.pw.toml"
-hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
-metafile = true
-
-[[files]]
-file = "mods/adr_yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
 file = "mods/con_create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
@@ -172,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/con_yigd.pw.toml"
 hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
-metafile = true
-
-[[files]]
-file = "mods/con_yungs-api.pw.toml"
-hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
@@ -232,6 +142,36 @@ metafile = true
 [[files]]
 file = "mods/con_yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
+metafile = true
+
+[[files]]
+file = "mods/lib_cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/lib_fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/lib_indium.pw.toml"
+hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
+metafile = true
+
+[[files]]
+file = "mods/lib_searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/lib_yacl.pw.toml"
+hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
+metafile = true
+
+[[files]]
+file = "mods/lib_yungs-api.pw.toml"
+hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
@@ -295,18 +235,13 @@ hash = "88124987ce7dfce18b690cd3ca715093de15a50173569748409e3ac737b1156b"
 metafile = true
 
 [[files]]
-file = "mods/oth_c2me-fabric.pw.toml"
-hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
-metafile = true
-
-[[files]]
 file = "mods/oth_chunky.pw.toml"
 hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
-file = "mods/oth_searchables.pw.toml"
-hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+file = "mods/oth_player-roles.pw.toml"
+hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
 metafile = true
 
 [[files]]
@@ -315,16 +250,81 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.pw.toml"
-hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
+file = "mods/oth_styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
 
 [[files]]
-file = "mods/styledplayerlist.pw.toml"
+file = "mods/oth_styledplayerlist.pw.toml"
 hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/oth_yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/per_badoptimizations.pw.toml"
+hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
+metafile = true
+
+[[files]]
+file = "mods/per_c2me-fabric.pw.toml"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
+file = "mods/per_cull-less-leaves.pw.toml"
+hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+metafile = true
+
+[[files]]
+file = "mods/per_dynamic-fps.pw.toml"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
+metafile = true
+
+[[files]]
+file = "mods/per_ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/per_entityculling.pw.toml"
+hash = "dd6dcae2b3900f466f93387e57a213a18678dd3b366cb4037e2870dfcd892eb8"
+metafile = true
+
+[[files]]
+file = "mods/per_ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/per_immediatelyfast.pw.toml"
+hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
+metafile = true
+
+[[files]]
+file = "mods/per_lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/per_modernfix.pw.toml"
+hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
+metafile = true
+
+[[files]]
+file = "mods/per_noisium.pw.toml"
+hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
+metafile = true
+
+[[files]]
+file = "mods/per_sodium.pw.toml"
+hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
+metafile = true
+
+[[files]]
+file = "mods/per_threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
