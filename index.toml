@@ -126,28 +126,38 @@ hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
+file = "mods/con-create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
+file = "mods/con-create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
+file = "mods/con-eureka.pw.toml"
 hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
-file = "mods/fabric-seasons.pw.toml"
+file = "mods/con-fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
+file = "mods/con-geophilic.pw.toml"
 hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
+metafile = true
+
+[[files]]
+file = "mods/con-valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
+metafile = true
+
+[[files]]
+file = "mods/con-yigd.pw.toml"
+hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
@@ -158,14 +168,4 @@ metafile = true
 [[files]]
 file = "mods/opt-sodium-extra.pw.toml"
 hash = "c7902421291201ea7ae32310e0c812407fc43fa5a795ea67e6e3cb461489b5b6"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
-metafile = true
-
-[[files]]
-file = "mods/yigd.pw.toml"
-hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
