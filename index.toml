@@ -151,6 +151,16 @@ hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
+file = "mods/opt-reeses-sodium-options.pw.toml"
+hash = "cc0f19205fd8c896e15837aceb1026418f420e15c103eb0a0893298d51811eb2"
+metafile = true
+
+[[files]]
+file = "mods/opt-sodium-extra.pw.toml"
+hash = "c7902421291201ea7ae32310e0c812407fc43fa5a795ea67e6e3cb461489b5b6"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
