@@ -11,3 +11,8 @@ hash = "f02c57844c514cf6706c8c31508e31af04238e1c"
 [update.modrinth]
 mod-id = "VSNURh3q"
 version = "QZ5cUNXs"
+
+[option]
+optional = true
+default = true
+description = "Performance mod that improves chunk performance through multi-threading. If your RAM or CPU usage is too high, try disabling this."
