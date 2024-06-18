@@ -235,6 +235,11 @@ hash = "0b2accb952f454b2862dfff16e549e715d2b2c7965ca7b6de5076e9ff8ffad2a"
 metafile = true
 
 [[files]]
+file = "mods/opt_bobby.pw.toml"
+hash = "752f3060c1472649ee99a9f0e952a1196f885605e723fe423edda9577641fae0"
+metafile = true
+
+[[files]]
 file = "mods/opt_controlling.pw.toml"
 hash = "60f1d2467369c3392d318c562b33af5691f4dbb45fe72f2e608440a756ae9ce9"
 metafile = true
