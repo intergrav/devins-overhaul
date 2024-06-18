@@ -185,36 +185,6 @@ hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
-file = "mods/ext_chunky.pw.toml"
-hash = "17c8ba2c2cedd4228f5fe0ca7b26b1193cf4bb36624a88bb24e1e1c41dbe90b8"
-metafile = true
-
-[[files]]
-file = "mods/ext_player-roles.pw.toml"
-hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
-metafile = true
-
-[[files]]
-file = "mods/ext_spark.pw.toml"
-hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
-metafile = true
-
-[[files]]
-file = "mods/ext_styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
-metafile = true
-
-[[files]]
-file = "mods/ext_styledplayerlist.pw.toml"
-hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
-metafile = true
-
-[[files]]
-file = "mods/ext_yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
 file = "mods/lib_cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -247,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/lib_yacl.pw.toml"
 hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
+metafile = true
+
+[[files]]
+file = "mods/lib_yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
