@@ -141,6 +141,11 @@ hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
