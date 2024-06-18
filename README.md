@@ -17,3 +17,4 @@ I've prefixed mods in the packwiz project to make it easier to understand certai
 - `opt` (optional) mod that's optional, typically client-side, can be easily reverted
   - **all of these are able to be toggled by the user when installing the modpack**
 - `per` (performance) mod meant to improve game performance
+  - **some of these may be optional if it's a mod that could cause issues, like C2ME**
