@@ -85,6 +85,11 @@ file = "config/yosbr/options.txt"
 hash = "af1f626931d4ceceb9dff7847637e41e473fe4b837b83a8246c3e9042dd25973"
 
 [[files]]
+file = "mods/con_create-clockwork.pw.toml"
+hash = "e083e8da620315b21fb76fef352eb887aa849d8c8be2ac268251b0b386eb95ba"
+metafile = true
+
+[[files]]
 file = "mods/con_create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
@@ -97,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/con_create-steam-n-rails.pw.toml"
 hash = "4fac0263f4d5e5b8810969b6a04b64ee2396cd42232fd16bcadf7e8e7ae96d90"
-metafile = true
-
-[[files]]
-file = "mods/con_eureka.pw.toml"
-hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
