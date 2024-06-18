@@ -1,6 +1,6 @@
 name = "YUNG's Better End Island"
 filename = "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/qJTsmyiE/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar"

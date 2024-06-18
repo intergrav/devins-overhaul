@@ -1,6 +1,6 @@
 name = "YUNG's Better Ocean Monuments"
 filename = "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3dT9sgt4/versions/4c00pjbt/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"

@@ -1,6 +1,6 @@
 name = "YUNG's Better Witch Huts"
 filename = "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/t5FRdP87/versions/lYpHN3iF/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"

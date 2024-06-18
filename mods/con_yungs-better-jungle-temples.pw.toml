@@ -1,6 +1,6 @@
 name = "YUNG's Better Jungle Temples"
 filename = "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/z9Ve58Ih/versions/6LPrzuB0/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar"

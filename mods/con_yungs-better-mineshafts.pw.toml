@@ -1,6 +1,6 @@
 name = "YUNG's Better Mineshafts"
 filename = "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/qLnQnqXS/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
