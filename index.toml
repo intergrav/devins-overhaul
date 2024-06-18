@@ -1,12 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
 file = "config/fancymenu/customization/devinmenu.txt"
 hash = "b9a64872875866ba5185e4a4b550af4f0545fb4f457acc008f0843bf835daad4"
 
 [[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "dc413e125ac58a0bdc3fbb4305a3e5ca18e37b7e09a8d825b94ef4642889171f"
+hash = "a9d3dbb44924c37632d3f1402ce4399e87837a3217deaee1862c24f771806db7"
 
 [[files]]
 file = "config/fancymenu/slideshows/devinslideshow/images/screenshot1.png"
@@ -27,6 +43,18 @@ hash = "71bfc55aca7765648012426358034a8e1042ee77282405477d3dd940032636e1"
 [[files]]
 file = "config/fancymenu/slideshows/devinslideshow/properties.txt"
 hash = "74b3d0a86f6440c4d260d5507c22d449b5ba9766f58db00399fc89018ebd9d3f"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
