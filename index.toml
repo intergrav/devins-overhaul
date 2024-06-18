@@ -230,23 +230,13 @@ hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
-file = "mods/ext_c2me-fabric.pw.toml"
-hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
-metafile = true
-
-[[files]]
-file = "mods/ext_chunky.pw.toml"
-hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
-metafile = true
-
-[[files]]
-file = "mods/ext_spark.pw.toml"
-hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
 file = "mods/opt_appleskin.pw.toml"
 hash = "0b2accb952f454b2862dfff16e549e715d2b2c7965ca7b6de5076e9ff8ffad2a"
+metafile = true
+
+[[files]]
+file = "mods/opt_controlling.pw.toml"
+hash = "60f1d2467369c3392d318c562b33af5691f4dbb45fe72f2e608440a756ae9ce9"
 metafile = true
 
 [[files]]
@@ -262,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/opt_iris.pw.toml"
 hash = "b50c69fba6c8b47d063c69d33f669f568bbd68eefc6e8c9eed27032e8608cb05"
+metafile = true
+
+[[files]]
+file = "mods/opt_jade.pw.toml"
+hash = "3378fc684d3f16dbfb623a657f10a6211fc6233aeae6c901cf01694141d2d6f8"
 metafile = true
 
 [[files]]
@@ -287,4 +282,24 @@ metafile = true
 [[files]]
 file = "mods/opt_xaeros-world-map.pw.toml"
 hash = "88124987ce7dfce18b690cd3ca715093de15a50173569748409e3ac737b1156b"
+metafile = true
+
+[[files]]
+file = "mods/oth_c2me-fabric.pw.toml"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
+file = "mods/oth_chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/oth_searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/oth_spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
