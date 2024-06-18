@@ -325,6 +325,11 @@ hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
 metafile = true
 
 [[files]]
+file = "mods/per_raknetify.pw.toml"
+hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
+metafile = true
+
+[[files]]
 file = "mods/per_sodium.pw.toml"
 hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
