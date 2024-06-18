@@ -246,6 +246,11 @@ hash = "0b2accb952f454b2862dfff16e549e715d2b2c7965ca7b6de5076e9ff8ffad2a"
 metafile = true
 
 [[files]]
+file = "mods/opt_ears.pw.toml"
+hash = "a9c1f60962174a1a627eed3dfeff1c1a5a90d4ac7112b3243da0a7c6404a6dbf"
+metafile = true
+
+[[files]]
 file = "mods/opt_emi.pw.toml"
 hash = "c8a4ed53f9b823d45ba4e3a9cdf732e9b5d1676272d3ebb447ca6e835178cb19"
 metafile = true
