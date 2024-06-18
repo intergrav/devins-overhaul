@@ -190,6 +190,16 @@ hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
+file = "mods/lib_konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/lib_melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+metafile = true
+
+[[files]]
 file = "mods/lib_searchables.pw.toml"
 hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
 metafile = true
@@ -227,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/opt_emi.pw.toml"
 hash = "c8a4ed53f9b823d45ba4e3a9cdf732e9b5d1676272d3ebb447ca6e835178cb19"
+metafile = true
+
+[[files]]
+file = "mods/opt_fancymenu.pw.toml"
+hash = "789869f0c4b8c0791d77402791c49415f84c914b2aabf8ab95734c2044e22439"
 metafile = true
 
 [[files]]
