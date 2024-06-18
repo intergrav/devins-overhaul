@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
-hash = "976de2e84ba77d4a6ba59f240f79408b960d6acf8dc2f108a7dde1d193913d1c"
+hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
