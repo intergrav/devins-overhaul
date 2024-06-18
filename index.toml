@@ -41,216 +41,216 @@ file = "config/yosbr/options.txt"
 hash = "af1f626931d4ceceb9dff7847637e41e473fe4b837b83a8246c3e9042dd25973"
 
 [[files]]
-file = "mods/adr-badoptimizations.pw.toml"
+file = "mods/adr_badoptimizations.pw.toml"
 hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
 metafile = true
 
 [[files]]
-file = "mods/adr-cloth-config.pw.toml"
+file = "mods/adr_cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
-file = "mods/adr-cull-less-leaves.pw.toml"
+file = "mods/adr_cull-less-leaves.pw.toml"
 hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
-file = "mods/adr-dynamic-fps.pw.toml"
+file = "mods/adr_dynamic-fps.pw.toml"
 hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
-file = "mods/adr-ebe.pw.toml"
+file = "mods/adr_ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/adr-entityculling.pw.toml"
+file = "mods/adr_entityculling.pw.toml"
 hash = "dd6dcae2b3900f466f93387e57a213a18678dd3b366cb4037e2870dfcd892eb8"
 metafile = true
 
 [[files]]
-file = "mods/adr-fabric-api.pw.toml"
+file = "mods/adr_fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
 
 [[files]]
-file = "mods/adr-ferrite-core.pw.toml"
+file = "mods/adr_ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/adr-immediatelyfast.pw.toml"
+file = "mods/adr_immediatelyfast.pw.toml"
 hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
-file = "mods/adr-indium.pw.toml"
+file = "mods/adr_indium.pw.toml"
 hash = "523659698dcfb97f79c9971a9c3ce41ba5e654d55b0464d73da01a63cd9a1824"
 metafile = true
 
 [[files]]
-file = "mods/adr-lithium.pw.toml"
+file = "mods/adr_lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/adr-modernfix.pw.toml"
+file = "mods/adr_modernfix.pw.toml"
 hash = "a4ed08cb6d5da7893d0f90c077e514a3d1e1c51168bb21182e972277f12b1dab"
 metafile = true
 
 [[files]]
-file = "mods/adr-noisium.pw.toml"
+file = "mods/adr_noisium.pw.toml"
 hash = "265cd890e280c9dfd5baae1e928282f756d1f75d3f07939909f60bf741036b52"
 metafile = true
 
 [[files]]
-file = "mods/adr-sodium.pw.toml"
+file = "mods/adr_sodium.pw.toml"
 hash = "c3774af2e5f18da0c4cb00f95421a08bf9f0dda90a4169ce87b021d2f8d0dbce"
 metafile = true
 
 [[files]]
-file = "mods/adr-threadtweak.pw.toml"
+file = "mods/adr_threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]
-file = "mods/adr-yacl.pw.toml"
+file = "mods/adr_yacl.pw.toml"
 hash = "5fa3a100f874ad3d03b674e867105fc7cc7dcf98b5c1c50d7841a25a0dda4607"
 metafile = true
 
 [[files]]
-file = "mods/adr-yosbr.pw.toml"
+file = "mods/adr_yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
-file = "mods/con-create-enchantment-industry-fabric.pw.toml"
+file = "mods/con_create-enchantment-industry-fabric.pw.toml"
 hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
-file = "mods/con-create-fabric.pw.toml"
+file = "mods/con_create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
-file = "mods/con-eureka.pw.toml"
+file = "mods/con_eureka.pw.toml"
 hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
-file = "mods/con-fabric-seasons.pw.toml"
+file = "mods/con_fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
-file = "mods/con-geophilic.pw.toml"
+file = "mods/con_geophilic.pw.toml"
 hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
-file = "mods/con-valkyrien-skies.pw.toml"
+file = "mods/con_valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
-file = "mods/con-yigd.pw.toml"
+file = "mods/con_yigd.pw.toml"
 hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-api.pw.toml"
+file = "mods/con_yungs-api.pw.toml"
 hash = "5aa508141e85bc3e7e94e9a6df06fa50365623af4b83f94540a81433bb0df318"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-desert-temples.pw.toml"
+file = "mods/con_yungs-better-desert-temples.pw.toml"
 hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-dungeons.pw.toml"
+file = "mods/con_yungs-better-dungeons.pw.toml"
 hash = "e7e2cc03c81bad91f62c77e988a3ac2c198a5c3e9a11ba7a7ca6d8cdc7122a60"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-end-island.pw.toml"
+file = "mods/con_yungs-better-end-island.pw.toml"
 hash = "0649f0106ad675a51393d8e468f276b9797dde47a6d308405e4ec29440c13da9"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-jungle-temples.pw.toml"
+file = "mods/con_yungs-better-jungle-temples.pw.toml"
 hash = "2cbc1f2cc5af34d0e2688cab02bbb73306ae1e578bc07dc86b57819f1168a3ec"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-mineshafts.pw.toml"
+file = "mods/con_yungs-better-mineshafts.pw.toml"
 hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-nether-fortresses.pw.toml"
+file = "mods/con_yungs-better-nether-fortresses.pw.toml"
 hash = "ceffda181c95ab0ecbc91e01071d2df27d53117da2ae6453c1f0bb46be0fe4f0"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-ocean-monuments.pw.toml"
+file = "mods/con_yungs-better-ocean-monuments.pw.toml"
 hash = "925ed414ce82dd8e694288782a43a9ebaa5eb1752d7ad4e4ce3dd359040402e5"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-strongholds.pw.toml"
+file = "mods/con_yungs-better-strongholds.pw.toml"
 hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-better-witch-huts.pw.toml"
+file = "mods/con_yungs-better-witch-huts.pw.toml"
 hash = "3d65c189ea7cc2d893a59cfe2aec5fbd9d82126af34c1582c3b04be43f604fde"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-bridges.pw.toml"
+file = "mods/con_yungs-bridges.pw.toml"
 hash = "ee076e84e2052ccff9ac179298b241fb9f55d82fdef64f2c704d4b37254fe92f"
 metafile = true
 
 [[files]]
-file = "mods/con-yungs-extras.pw.toml"
+file = "mods/con_yungs-extras.pw.toml"
 hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
-file = "mods/opt-appleskin.pw.toml"
+file = "mods/opt_appleskin.pw.toml"
 hash = "0b2accb952f454b2862dfff16e549e715d2b2c7965ca7b6de5076e9ff8ffad2a"
 metafile = true
 
 [[files]]
-file = "mods/opt-iris.pw.toml"
+file = "mods/opt_iris.pw.toml"
 hash = "b50c69fba6c8b47d063c69d33f669f568bbd68eefc6e8c9eed27032e8608cb05"
 metafile = true
 
 [[files]]
-file = "mods/opt-modmenu.pw.toml"
+file = "mods/opt_modmenu.pw.toml"
 hash = "82616f385d48282a2a2cc53602ed8b4217ebb1ea36fa03c33d1cbe1a29e630bd"
 metafile = true
 
 [[files]]
-file = "mods/opt-reeses-sodium-options.pw.toml"
+file = "mods/opt_reeses-sodium-options.pw.toml"
 hash = "cc0f19205fd8c896e15837aceb1026418f420e15c103eb0a0893298d51811eb2"
 metafile = true
 
 [[files]]
-file = "mods/opt-sodium-extra.pw.toml"
+file = "mods/opt_sodium-extra.pw.toml"
 hash = "c7902421291201ea7ae32310e0c812407fc43fa5a795ea67e6e3cb461489b5b6"
 metafile = true
 
 [[files]]
-file = "mods/opt-xaeros-minimap.pw.toml"
+file = "mods/opt_xaeros-minimap.pw.toml"
 hash = "49a65a2bf3c0d922c3ea57114e2e9b0589899ae97171c5fa8eb778a70d9413a6"
 metafile = true
 
 [[files]]
-file = "mods/opt-xaeros-world-map.pw.toml"
+file = "mods/opt_xaeros-world-map.pw.toml"
 hash = "88124987ce7dfce18b690cd3ca715093de15a50173569748409e3ac737b1156b"
 metafile = true
