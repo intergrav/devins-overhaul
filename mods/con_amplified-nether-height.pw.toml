@@ -1,0 +1,13 @@
+name = "Amplified Nether Height"
+filename = "amplified-nether-height-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8YzB9eVH/versions/5FTN0Pp4/amplified-nether-height-1.1.jar"
+hash-format = "sha1"
+hash = "86777a46f222bdb05df10e5f79c30eec19bb519e"
+
+[update]
+[update.modrinth]
+mod-id = "8YzB9eVH"
+version = "5FTN0Pp4"
