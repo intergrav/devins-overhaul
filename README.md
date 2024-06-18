@@ -13,3 +13,4 @@ I've prefixed mods in the packwiz project to make it easier to understand certai
 - `adr` means it's a mod from Adrenaline
 - `con` means it's a mod that adds content
 - `opt` means it's a mod that's optional, typically client-side
+- `ext` means it's a mod that doesn't fit any of these other prefixes
