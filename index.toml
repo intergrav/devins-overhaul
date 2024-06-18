@@ -37,6 +37,10 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
+file = "config/yosbr/config/valkyrienskies/vs_eureka_server.json"
+hash = "39154acf2dddd27a8e8b4d2b99b07d964e2eeb4f612abe462ca3d8a5357520a1"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "af1f626931d4ceceb9dff7847637e41e473fe4b837b83a8246c3e9042dd25973"
 
