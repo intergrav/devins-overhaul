@@ -69,6 +69,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "26950b1934bf00f24551063c78851413d4ee50bafa6a3796344258cee04fdba1"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
 
@@ -357,6 +361,11 @@ metafile = true
 [[files]]
 file = "mods/per_raknetify.pw.toml"
 hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
+metafile = true
+
+[[files]]
+file = "mods/per_servercore.pw.toml"
+hash = "182161aa8e4b730555dd9984efb7be8cfd3debbaf1d4cc60e0b3241402e6f2bc"
 metafile = true
 
 [[files]]
