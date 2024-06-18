@@ -145,6 +145,36 @@ hash = "2a90807ed3a4933463a8fe3590b04a0be73419faa29cd156528a53ab0407282d"
 metafile = true
 
 [[files]]
+file = "mods/ext_chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/ext_player-roles.pw.toml"
+hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
+metafile = true
+
+[[files]]
+file = "mods/ext_spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+metafile = true
+
+[[files]]
+file = "mods/ext_styled-chat.pw.toml"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+metafile = true
+
+[[files]]
+file = "mods/ext_styledplayerlist.pw.toml"
+hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/ext_yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
 file = "mods/lib_cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -232,36 +262,6 @@ metafile = true
 [[files]]
 file = "mods/opt_xaeros-world-map.pw.toml"
 hash = "88124987ce7dfce18b690cd3ca715093de15a50173569748409e3ac737b1156b"
-metafile = true
-
-[[files]]
-file = "mods/oth_chunky.pw.toml"
-hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
-metafile = true
-
-[[files]]
-file = "mods/oth_player-roles.pw.toml"
-hash = "3e6b62519a11e182b8913e1ab2f28b6dd22aead33cb63d8102b70e073cbf0ebd"
-metafile = true
-
-[[files]]
-file = "mods/oth_spark.pw.toml"
-hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
-metafile = true
-
-[[files]]
-file = "mods/oth_styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
-metafile = true
-
-[[files]]
-file = "mods/oth_styledplayerlist.pw.toml"
-hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
-metafile = true
-
-[[files]]
-file = "mods/oth_yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
