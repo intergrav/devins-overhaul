@@ -1,0 +1,18 @@
+name = "Simple Voice Chat"
+filename = "voicechat-fabric-1.20.1-2.5.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/GoRD2PbW/voicechat-fabric-1.20.1-2.5.17.jar"
+hash-format = "sha1"
+hash = "341e9035a36d6a343b0ace67ef997761339b8f16"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "GoRD2PbW"
+
+[option]
+optional = true
+default = true
+description = "Adds proximity and group voice chat so that you can hear other people in-game. If you disable this, you will not be able to hear anyone else and no input will go through either."
