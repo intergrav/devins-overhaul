@@ -161,6 +161,11 @@ hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
+file = "mods/opt-iris.pw.toml"
+hash = "b50c69fba6c8b47d063c69d33f669f568bbd68eefc6e8c9eed27032e8608cb05"
+metafile = true
+
+[[files]]
 file = "mods/opt-reeses-sodium-options.pw.toml"
 hash = "cc0f19205fd8c896e15837aceb1026418f420e15c103eb0a0893298d51811eb2"
 metafile = true
