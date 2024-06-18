@@ -141,6 +141,11 @@ hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
