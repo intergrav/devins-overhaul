@@ -1,10 +1,6 @@
-> **Warning**
-> 
-> This modpack is currently a work-in-progress. Do not use it right now.
-
 # Devin's Overhaul
 
-A lightweight modpack mostly centered around Create, with some other Vanilla-like additions. Based on Adrenaline
+A lightweight modpack mostly centered around Create, with some other Vanilla-like additions. Based on Adrenaline. See the [Modrinth project page](https://modrinth.com/modpack/devins-overhaul) for more information.
 
 ## Mod prefixes
 
