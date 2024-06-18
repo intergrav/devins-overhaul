@@ -161,6 +161,11 @@ hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
+file = "mods/opt-appleskin.pw.toml"
+hash = "0b2accb952f454b2862dfff16e549e715d2b2c7965ca7b6de5076e9ff8ffad2a"
+metafile = true
+
+[[files]]
 file = "mods/opt-iris.pw.toml"
 hash = "b50c69fba6c8b47d063c69d33f669f568bbd68eefc6e8c9eed27032e8608cb05"
 metafile = true
@@ -178,4 +183,14 @@ metafile = true
 [[files]]
 file = "mods/opt-sodium-extra.pw.toml"
 hash = "c7902421291201ea7ae32310e0c812407fc43fa5a795ea67e6e3cb461489b5b6"
+metafile = true
+
+[[files]]
+file = "mods/opt-xaeros-minimap.pw.toml"
+hash = "49a65a2bf3c0d922c3ea57114e2e9b0589899ae97171c5fa8eb778a70d9413a6"
+metafile = true
+
+[[files]]
+file = "mods/opt-xaeros-world-map.pw.toml"
+hash = "88124987ce7dfce18b690cd3ca715093de15a50173569748409e3ac737b1156b"
 metafile = true
