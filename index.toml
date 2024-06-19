@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/ambience.ogg"
+hash = "2f5ead9a95743dff9cc186076b0eab6439ca46301bd09ce3958e9938a2dbd458"
+
+[[files]]
+file = "config/fancymenu/assets/screenshot.png"
+hash = "1c4a5a9c7b4594fbb0d2f7665c54fd97b60b21124d0a41933f35ba4db9dc899f"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -10,31 +18,11 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/devinmenu.txt"
-hash = "59e68d0cd0ecd435f49ae4b7863b996437ff04e5300d188ca90a5b7cd148d67f"
+hash = "d277f2791fa80dbe3ba53d33fe4ffb131bdbd5197b23c42b018a91b2bf4c88dd"
 
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "a9d3dbb44924c37632d3f1402ce4399e87837a3217deaee1862c24f771806db7"
-
-[[files]]
-file = "config/fancymenu/slideshows/devinslideshow/images/screenshot1.png"
-hash = "1c4a5a9c7b4594fbb0d2f7665c54fd97b60b21124d0a41933f35ba4db9dc899f"
-
-[[files]]
-file = "config/fancymenu/slideshows/devinslideshow/images/screenshot2.png"
-hash = "832ba6ef2fef085ddd55e15d4bc2f6dea342454a5dd875a3749db75b94ec6d0c"
-
-[[files]]
-file = "config/fancymenu/slideshows/devinslideshow/images/screenshot3.png"
-hash = "515ee943919095a6d51e2002c523b6dc70f138c245834b9a789dc769faa759db"
-
-[[files]]
-file = "config/fancymenu/slideshows/devinslideshow/images/screenshot4.png"
-hash = "fbeac1d472744c332f6f41d5420c7f4b73990acb4d8b8450f848c5500c0bd973"
-
-[[files]]
-file = "config/fancymenu/slideshows/devinslideshow/properties.txt"
-hash = "74b3d0a86f6440c4d260d5507c22d449b5ba9766f58db00399fc89018ebd9d3f"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
