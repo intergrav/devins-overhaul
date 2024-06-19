@@ -5,7 +5,7 @@ file = "config/fancymenu/assets/ambience.ogg"
 hash = "2f5ead9a95743dff9cc186076b0eab6439ca46301bd09ce3958e9938a2dbd458"
 
 [[files]]
-file = "config/fancymenu/assets/screenshot.png"
+file = "config/fancymenu/assets/background.png"
 hash = "1c4a5a9c7b4594fbb0d2f7665c54fd97b60b21124d0a41933f35ba4db9dc899f"
 
 [[files]]
