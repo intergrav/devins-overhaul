@@ -258,6 +258,11 @@ hash = "60f1d2467369c3392d318c562b33af5691f4dbb45fe72f2e608440a756ae9ce9"
 metafile = true
 
 [[files]]
+file = "mods/opt_cubes-without-borders.pw.toml"
+hash = "b28096abad46c06a6609f464ec8bb5ebb8279fd491a38d6b6d100045e75ea635"
+metafile = true
+
+[[files]]
 file = "mods/opt_ears.pw.toml"
 hash = "a9c1f60962174a1a627eed3dfeff1c1a5a90d4ac7112b3243da0a7c6404a6dbf"
 metafile = true
