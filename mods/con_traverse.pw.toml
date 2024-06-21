@@ -1,0 +1,13 @@
+name = "Traverse"
+filename = "traverse-7.0.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXygSBVI/versions/OLnGR4Nz/traverse-7.0.11.jar"
+hash-format = "sha1"
+hash = "cbd2702063139532250fdb41f32319f9cae1778e"
+
+[update]
+[update.modrinth]
+mod-id = "kXygSBVI"
+version = "OLnGR4Nz"

@@ -123,6 +123,11 @@ hash = "749962b311d8e76f7328cf92ffceb2ff2caaeeeb8f68462b437efd527003d821"
 metafile = true
 
 [[files]]
+file = "mods/con_traverse.pw.toml"
+hash = "e260ccd93b6650fc7317b51c5e0beffc5fef680d42808c2fd1ed7cab098d1b20"
+metafile = true
+
+[[files]]
 file = "mods/con_valkyrien-skies.pw.toml"
 hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
