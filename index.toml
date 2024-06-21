@@ -108,6 +108,11 @@ hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
 metafile = true
 
 [[files]]
+file = "mods/con_fabric-seasons-terraformers-compat.pw.toml"
+hash = "75041065d2a8be1b1aca15e0c8f13e045ab3e90bd6c0b3cbece6895a2bc87596"
+metafile = true
+
+[[files]]
 file = "mods/con_fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
