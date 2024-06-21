@@ -277,6 +277,11 @@ hash = "3378fc684d3f16dbfb623a657f10a6211fc6233aeae6c901cf01694141d2d6f8"
 metafile = true
 
 [[files]]
+file = "mods/opt_mod-loading-screen.pw.toml"
+hash = "d51b0bfdd9b32013f312f99cfa2a8111f278a89ad726487e3fbc2468146565a6"
+metafile = true
+
+[[files]]
 file = "mods/opt_modmenu.pw.toml"
 hash = "82616f385d48282a2a2cc53602ed8b4217ebb1ea36fa03c33d1cbe1a29e630bd"
 metafile = true
