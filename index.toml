@@ -401,8 +401,3 @@ metafile = true
 file = "mods/per_threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
-
-[[files]]
-file = "mods/per_vmp-fabric.pw.toml"
-hash = "7f6dac497c227608129dc40d4ce8b7e115ee5741db6ec53ec349884f88384a59"
-metafile = true
